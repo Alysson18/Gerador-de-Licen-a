@@ -1,0 +1,23 @@
+E:\Projetos\Gerador de Licença\Gerador de Licença\bin\Debug\Gerador de Licença.exe.config
+E:\Projetos\Gerador de Licença\Gerador de Licença\bin\Debug\Gerador de Licença.exe
+E:\Projetos\Gerador de Licença\Gerador de Licença\bin\Debug\Gerador de Licença.pdb
+E:\Projetos\Gerador de Licença\Gerador de Licença\bin\Debug\Renci.SshNet.dll
+E:\Projetos\Gerador de Licença\Gerador de Licença\bin\Debug\System.Buffers.dll
+E:\Projetos\Gerador de Licença\Gerador de Licença\bin\Debug\System.Memory.dll
+E:\Projetos\Gerador de Licença\Gerador de Licença\bin\Debug\System.Numerics.Vectors.dll
+E:\Projetos\Gerador de Licença\Gerador de Licença\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projetos\Gerador de Licença\Gerador de Licença\bin\Debug\Renci.SshNet.xml
+E:\Projetos\Gerador de Licença\Gerador de Licença\bin\Debug\System.Buffers.xml
+E:\Projetos\Gerador de Licença\Gerador de Licença\bin\Debug\System.Memory.xml
+E:\Projetos\Gerador de Licença\Gerador de Licença\bin\Debug\System.Numerics.Vectors.xml
+E:\Projetos\Gerador de Licença\Gerador de Licença\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Projetos\Gerador de Licença\Gerador de Licença\obj\Debug\Gerador de Licença.csprojAssemblyReference.cache
+E:\Projetos\Gerador de Licença\Gerador de Licença\obj\Debug\Gerador_de_Licença.Properties.Resources.resources
+E:\Projetos\Gerador de Licença\Gerador de Licença\obj\Debug\Gerador de Licença.csproj.GenerateResource.cache
+E:\Projetos\Gerador de Licença\Gerador de Licença\obj\Debug\Gerador de Licença.csproj.CoreCompileInputs.cache
+E:\Projetos\Gerador de Licença\Gerador de Licença\obj\Debug\Gerador de Licença.csproj.CopyComplete
+E:\Projetos\Gerador de Licença\Gerador de Licença\obj\Debug\Gerador de Licença.exe
+E:\Projetos\Gerador de Licença\Gerador de Licença\obj\Debug\Gerador de Licença.pdb
+E:\Projetos\Gerador de Licença\Gerador de Licença\obj\Debug\Gerador_de_Licença.GerarLicenca.resources
+E:\Projetos\Gerador de Licença\Gerador de Licença\bin\Debug\SKGL.dll
+E:\Projetos\Gerador de Licença\Gerador de Licença\obj\Debug\Gerador_de_Licença.AdicionarLicenca.resources
